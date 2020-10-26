@@ -1,9 +1,9 @@
-# Phyton 🚀️ 
+# Phyton 🚀️
 
 ## ¿Qué es Phyton?
 
 Es un lenguaje de programacion (idioma que la computadora conoce) interpretado, **¿Qué es que sea interpretado?** que la PC en si misma no lo conoce, entonces se necesita un **interprete**, una ventaja de un lenguaje interpretado, es que puede ser probado a medida que es escrito.
-Tambien es multiparadigma y multiplataforma. 
+Tambien es multiparadigma y multiplataforma.
 
 ### ¿Porque Phyton?
 
@@ -38,5 +38,27 @@ Phyton gestiona el codigo asincronico de manera sencilla.
 Hay muchas bibliotecas disponibles en el mundo Phyton, desde manejo matematico, procesamiento de imagen y mas.
 
 **Mucha comunidad**
-Phyton es OpenSource, mientras mas comunidad mayor desarollo tendra en si mismo. Tambien nos garantiza mucha informacion al respecto de la misma. 
+Phyton es OpenSource, mientras mas comunidad mayor desarollo tendra en si mismo. Tambien nos garantiza mucha informacion al respecto de la misma.
+
+## Aplicaciones
+
+### En Inteligencia Artificial (AI)
+
+Usa bibliotecas como **Keras y TensorFlow**, tambien Python proporciona **Scikitl** que es una biblioteca para algoritmos de inteligencia artificial.
+
+### En Big Data
+
+Python sirve tambien para el analisis de datos. Se cuentan con bibliotecas de procesamiento como **Pydoop**, **Dask** y **Pyspark**
+
+### En Data Science
+
+Usa paquetes como **Pandas** y **Numpy**, abandonando asi a programas como MATLAB que son pagos.
+
+### Frameworks de pruebas
+
+Es ideal para validar ideas o productos por sus frameworks integrados para depurar el codigo. **Unittest**, **Pytest** y **Nose Test** son algunas bibliotecas disponibles.
+
+### Desarrollo Web
+
+El framework **Django** sirve para la creacion de aplicaciones web dinamicas y seguras, Phyton tambien sirve para hacer scraping (obtener informacion) de otros sitios web, como **Instagram, BitBucket, Dropbox y Pinterest**
 
